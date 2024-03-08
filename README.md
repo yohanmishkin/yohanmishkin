@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/kha7iq/kha7iq/main/assets/banner.png" alt="Introduction Banner.." style="text-align: center; margin-bottom: 30px;" />
+<img src="https://raw.githubusercontent.com/yohanmishkin/yohanmishkin/main/assets/banner.png" alt="Introduction Banner.." style="text-align: center; margin-bottom: 30px;" />
 
 - 🔨 Currently working as a **Staff Frontend Engineer**
 - 🤖 Favourite language: **HTML + TypeScript**
