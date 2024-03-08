@@ -1,6 +1,13 @@
-### Hi there 👋
+<img src="https://raw.githubusercontent.com/kha7iq/kha7iq/main/assets/banner.png" alt="Introduction Banner.." style="text-align: center; margin-bottom: 30px;" />
 
-<!--
+- 🔨 Currently working as a **Staff Frontend Engineer**
+- 🤖 Favourite language: **HTML + TypeScript**
+- 💻 Favourite web app: _Figma_
+- 📜 Favourite dogma: _Optimize for deletion_
+
+
+<!-- BOILERPLATE EXAMPLE STUFF
+
 **yohanmishkin/yohanmishkin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -15,9 +22,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://raw.githubusercontent.com/kha7iq/kha7iq/main/assets/banner.png" alt="Introduction Banner.." style="text-align: center; margin-bottom: 30px;" />
-
-- 🔨 Currently working as a **Staff Frontend Engineer**
-- 🤖 Favourite language: **HTML + TypeScript**
-- 💻 Favourite web app: _Figma_
-- 📜 Favourite dogma: _Optimize for deletion_
