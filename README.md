@@ -1,4 +1,15 @@
-<img src="https://raw.githubusercontent.com/yohanmishkin/yohanmishkin/main/assets/banner.png" alt="Introduction Banner.." style="text-align: center; margin-bottom: 30px;" />
+<picture>
+  <source
+      srcset="https://larsmagnus.co/_next/image?url=%2Fimages%2Fblog%2Fprefers-light.png&w=3840&q=75"
+    media="(prefers-color-scheme: dark)"
+  />
+  
+  <img
+    src="https://raw.githubusercontent.com/yohanmishkin/yohanmishkin/main/assets/banner.png"
+    alt="Browser with large and small images of a coffee cup and plants"
+  />
+</picture>
+
 
 - 🔨 Currently working as a **Staff Frontend Engineer**
 - 🤖 Favourite language: **HTML + TypeScript**
